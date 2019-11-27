@@ -27,7 +27,7 @@ ou
 
 ## Lien pour Travis CI
 
-https://travis-ci.com/marsovic/Base64JS
+[![Build Status](https://travis-ci.com/marsovic/Base64JS.svg?branch=master)](https://travis-ci.com/marsovic/Base64JS)
 
 ## Contact  
 Si vous voulez me contactez pour plus d'informations :

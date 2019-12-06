@@ -18,7 +18,7 @@ Pour utiliser cet encodage en Base64, vous devrez suivre les étapes suivante :
 ```cd Base64```.
 
 * Lancez yarn 
-```yarn start```.
+```yarn install```.
 
 *  Et enfin lancez les test ou le projet
 ```yarn test```
